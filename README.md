@@ -1,4 +1,4 @@
-# **Baltic Apprentcieship ** 
+# **Baltic Apprentcieship** 
 I would like to do an apprenticeship as it will be advantageous for me to attain skills relevant to industry. Specifically working as a software apprentice as I’m interested in developing practical application of existing and new learnt information on the back-end  programming of software technological devices and especially machines as I asp[ire to be involved in the production of A.I ( Artificial Intelligence) to increase their existence in the world to better people’s lives for the future. 
 
 ## *Skills*
@@ -20,7 +20,7 @@ I’m learning to drive having already obtained my provisional driving licence
  
  ## *Work Experience* 
 
-### **Sports Coach / referee MTH Football Club (2019-present(**
+### **Sports Coach / referee MTH Football Club (2019-present)**
 
 I am currently employed by MTH Football Club on Saturdays 9:30-12:30   since August 2019 where I referee matches where I ensure players are disciplined as I inform rules of games  prior to starting and ensure  it is disciplined throughout the game. As well as this I coach the players this to give tactical information and demonstrate actions they should  do in the game so a clear understanding of how to play the game is provided. This shows I can communicate effectively.
 
