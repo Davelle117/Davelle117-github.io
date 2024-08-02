@@ -14,6 +14,7 @@ I’m learning to drive having already obtained my provisional driving licence
 ###### I don't receive my results until August 15th 2024
 
 ##  **Newsome High School (2017-2022)**
+!{logo of my former high school](https://raw.githubusercontent.com/Davelle117/Davelle117-github.io/main/newsoem%20acadcmey%20%20logo.jpg)"A psoitive high school for em"
 ### Btecs Level 2s
  - Information Technology L2M
  -  Sport.Activity and Fitness  L2M
