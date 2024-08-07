@@ -7,7 +7,7 @@ The personal skills that l believe I possess that make me a good candidate for r
 I’m learning to drive having already obtained my provisional driving licence  
  
  ## **Greenhead College (2022-2024)**
-!my college logo](my cooloeg.nd) github.io/main/gvreenhead%20collge%20%20logo.jpg)"A psotivwe college for me"
+![logo of my fornmer college](https://uk.images.search.yahoo.com/search/images?p=gr4eenehd+colege+lpogo&fr=mcafee&type=E210GB714G91670&imgurl=https%3A%2F%2Fugithub.io/main/gvreenhead%20collge%20%20logo.jpg)"A psotivwe college for me"
 ### A-Levels 
 - Business  N.A 
 - Computer Science N.A 
